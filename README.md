@@ -56,9 +56,7 @@ This project showcases a complete data engineering pipeline built using **Snowfl
 ## 🖼️ Dashboard Snapshots
 
 | KPI Dashboard | Monthly Trends | Top 10 Restaurants |
-|---------------|----------------|--------------------|
-| 
-
+|---------------|----------------|--------------------| 
 Folder [Swiggy_Pipeline]
 
 ---
@@ -73,6 +71,6 @@ Folder [Swiggy_Pipeline]
 | **Streamlit**  | Front-end for data visualization |
 | **Git**        | Version control & project hosting|
 
----
+
 
 
