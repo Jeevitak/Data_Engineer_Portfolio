@@ -64,7 +64,7 @@ Built an end-to-end pipeline using **DLT with Bronze, Silver, and Gold layers**.
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/jeevita](www.linkedin.com/in/jeevita-kulkarni-326a62273)  
+- **LinkedIn:** [linkedin.com/in/jeevita](https://www.linkedin.com/in/jeevita-kulkarni-326a62273/)  
 - **Email:** jeevitakulkarni4@gmail.com
 - **GitHub:** [github.com/Jeevitak](https://github.com/Jeevitak)  
 
