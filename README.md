@@ -1,26 +1,74 @@
-Welcome! This repo contains real-world data engineering projects demonstrating my skills in data pipelines, cloud tools, SQL, and dashboarding.
-## 📊 Airflow Sales Analytics Pipeline
+# Jeevita Kulkarni – Data Engineer Portfolio
 
-A complete data pipeline built using Apache Airflow and Google Cloud tools.
+## 👋 About Me
+I’m a **Data Engineer** with 1.5 years of experience in **ETL pipelines, SQL optimization, and dashboarding**. I independently build **end-to-end data solutions**, turning raw data into actionable insights.  
 
-### 🔧 What it does:
-- Detects a sales CSV file in Google Cloud Storage (GCS)
-- Loads the data into a BigQuery staging table
-- Creates region-wise filtered tables and reporting views in BigQuery
-- Final dataset is visualized using Looker Studio
+**Tech Stack:** Python | SQL | Airflow | BigQuery | Databricks | Delta Live Tables (DLT) | Snowflake | Power BI  
 
-### 🧰 Tech Stack:
-- Apache Airflow (developed in PyCharm IDE)
-- Google Cloud Composer Sandbox
-- Google Cloud Storage (GCS)
-- BigQuery
-- Looker Studio
+---
 
-📁 **[View Project Folder](./Airflow_Sales_Analytics_Pipeline)**  
-🖼️ Includes DAG code, flowchart PDF, and environment setup (`requirements.txt`)
+## 🚀 Key Projects
+
+### **1. Swiggy Data Pipeline**  
+**Role:** Independent Developer  
+**Tech:** Python, Airflow, BigQuery  
+**Project Overview:**  
+Built an automated ETL pipeline to process and clean Swiggy delivery data, enabling efficient reporting.  
+
+**Impact / Highlights:**  
+- Automated daily data ingestion & cleaning workflows  
+- Reduced pipeline runtime by **35%**  
+- Enabled **real-time reporting** for delivery metrics  
+
+[View Project Folder](https://github.com/Jeevitak/Data_Engineer_Portfolio/tree/main/Swiggy_Pipeline)  
+
+---
+
+### **2. Sales Analytics Pipeline**  
+**Role:** Independent Developer  
+**Tech:** Python, BigQuery, Looker Studio  
+**Project Overview:**  
+Developed a pipeline and dashboards to track monthly sales and KPIs for internal analytics purposes.  
+
+**Impact / Highlights:**  
+- Built dashboards for internal reporting and KPI tracking  
+- Automated data pipelines to reduce manual effort  
+- Provided actionable insights for business metrics  
 
 
+[View Project Folder](https://github.com/Jeevitak/Data_Engineer_Portfolio/tree/main/Airflow_Sales_Analytics_Pipeline)  
 
+---
+
+### **3. Databricks DLT Pipeline Project**  
+**Role:** Independent Developer  
+**Tech:** Databricks, Delta Live Tables (DLT), Python, SQL, BigQuery  
+**Project Overview:**  
+Built an end-to-end pipeline using **DLT with Bronze, Silver, and Gold layers**. Implemented **batch and streaming ingestion** for raw data to create analytics-ready datasets.  
+
+**Impact / Highlights:**  
+- Designed a scalable and modular pipeline for data transformation and enrichment  
+- Automated ingestion and processing across all layers  
+- Prepared clean datasets for downstream reporting and analytics  
+ 
+[View Project Folder](https://github.com/Jeevitak/Data_Engineer_Portfolio/tree/main/Databricks_Project)  
+
+---
+
+## 📊 Skills & Expertise
+- **ETL & Data Pipelines:** Airflow, Python, BigQuery, Databricks, DLT  
+- **Analytics & Dashboards:** Looker Studio, Tableau, Power BI  
+- **SQL Optimization:** Complex queries, performance tuning  
+- **Version Control & Collaboration:** Git, GitHub  
+
+---
+
+## 📫 Contact Me
+- **LinkedIn:** [linkedin.com/in/jeevita](www.linkedin.com/in/jeevita-kulkarni-326a62273)  
+- **Email:** jeevitakulkarni4@gmail.com
+- **GitHub:** [github.com/Jeevitak](https://github.com/Jeevitak)  
+
+---
 
 
 
