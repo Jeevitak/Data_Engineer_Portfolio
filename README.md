@@ -1,7 +1,10 @@
 # Jeevita Kulkarni – Data Engineer Portfolio
 
 ## 👋 About Me
-I’m a **Data Engineer** with 1.5 years of experience in **ETL pipelines, SQL optimization, and dashboarding**. I independently build **end-to-end data solutions**, turning raw data into actionable insights.  
+I’m a Data Engineer with 1.5 years of experience designing and building end-to-end data solutions. I work independently to transform raw data into actionable insights, creating automated pipelines, optimized queries, and interactive dashboards.
+I have experience across multiple tools and technologies, including Python, SQL, Airflow, BigQuery, Databricks DLT, and visualization tools like Power BI. For each project, I select the technologies that best fit the problem, ensuring practical, scalable, and maintainable solutions.
+
+My focus is on solving real-world data challenges with clean, efficient pipelines and insightful analytics, demonstrating both versatility and depth in my work. 
 
 **Tech Stack:** Python | SQL | Airflow | BigQuery | Databricks | Delta Live Tables (DLT) | Snowflake | Power BI  
 
